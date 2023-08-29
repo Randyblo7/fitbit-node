@@ -21,7 +21,7 @@
     },
     "dependencies": {
         "fitbit-node": "^1.0.0",
-        "request": "^1.0.0",
+        "request": "^1.9.9",
         "simple-oauth2": "^5.0.0"
     },
     "devDependencies": {
