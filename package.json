@@ -22,7 +22,7 @@
     "dependencies": {
         "fitbit-node": "^1.0.0",
         "request": "^1.0.0",
-        "simple-oauth2": "^5.0.0"
+        "simple-oauth2": "^5.0.1"
     },
     "devDependencies": {
         "express": "^4.16.2"
